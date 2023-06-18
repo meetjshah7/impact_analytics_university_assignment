@@ -1,9 +1,9 @@
 # Contents
 - [Problem Statement](#problem-statement)
 - [Examples](#examples)
-  - [N = 4](#example-2-n--4)
+  - [N = 4](#example-1-n--4)
   - [N = 5](#example-2-n--5)
-  - [N = 6](#example-2-n--6)
+  - [N = 6](#example-3-n--6)
 - [Approaches](#approach)
   - [Approach 1: Bit Manipulation](#approach-1---bit-manipulation)
   - [Approach 2: Dynamic Programming](#approach-1---bit-manipulation)
