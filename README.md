@@ -10,6 +10,7 @@
     - [Approach A - O(N) Space Complexity](#dynamic-programming---approach-a)
     - [Approach B - O(1) Space Complexity](#dynamic-programming---approach-b)
 - [How to run](#how-to-run-the-program)
+- [Screenshot](#screenshot)
 
 # Problem Statement
 
@@ -370,3 +371,7 @@ python3 main.py 5
 ```
 
 Here 5 is the number of days, value for N.
+
+# Screenshot
+
+![image](https://github.com/meetjshah7/impact_analytics_university_assignment/assets/119717771/bece8fd4-5be0-44fe-9608-b5dca194c095)
