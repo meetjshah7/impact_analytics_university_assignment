@@ -5,7 +5,7 @@ if __name__ == "__main__":
     try:
         days = int(sys.argv[1])
     except IndexError:
-        print("Please pass 'no. of days' argument in command line. Hint: `python3 main.py`")
+        print("Please pass 'no. of days' argument in command line. Hint: `python3 main.py 5`")
     except ValueError:
         print("Could not pass the argument for to integer. Please ensure the argument 'no. of days' is a number")
     else:

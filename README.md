@@ -374,4 +374,4 @@ Here 5 is the number of days, value for N.
 
 # Screenshot
 
-![image](https://github.com/meetjshah7/impact_analytics_university_assignment/assets/119717771/bece8fd4-5be0-44fe-9608-b5dca194c095)
+![image](https://github.com/meetjshah7/impact_analytics_university_assignment/assets/119717771/ec85eb6c-051f-450a-8d01-b4047d22205d)
